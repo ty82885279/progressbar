@@ -16,7 +16,7 @@ var bar Bar
 
 
 
-![1](/Users/mrlee/Desktop/progressbar/1.GIF)
+![1](./1.GIF)
 
 指定样式
 
@@ -30,4 +30,4 @@ var bar Bar
 	bar.Finish()
 ```
 
-![2](/Users/mrlee/Desktop/progressbar/2.GIF)
+![2](./2.GIF)
